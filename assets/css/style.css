@@ -77,8 +77,8 @@ p {
     font-size: 36px;
 }
 
-/* Makes the divs in the content class have a bottom margin of 20px, padding of 50px, a height of 300px, specific font family, background color of #0072bb, have a text color of #ffffff */
-.content div {
+/* Makes the articles in the content class have a bottom margin of 20px, padding of 50px, a height of 300px, specific font family, background color of #0072bb, have a text color of #ffffff */
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -116,8 +116,8 @@ p {
     background-color: #2589bd;
 }
 
-/* Makes the divs in the benefits class have a bottom margin of 32px and a text color of #ffffff */
-.benefits div {
+/* Makes the sections in the benefits class have a bottom margin of 32px and a text color of #ffffff */
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff;    
 
